@@ -1,0 +1,38 @@
+<college>
+
+<student rollno = "1">
+<name>abc</name>
+<reg>21ec023</reg>
+<email>abc@gmail.com</email>
+<mobile>123456</mobile>
+</student>
+
+<student rollno = "2">
+<name>def</name>
+<reg>21ec110</reg>
+<email>def@gmail.com</email>
+<mobile>789456</mobile>
+</student>
+
+<student rollno = "3">
+<name>ghi</name>
+<reg>21ec01</reg>
+<email>ghi@gmail.com</email>
+<mobile>112345678</mobile>
+</student>
+
+<student rollno = "4">
+<name>jkl</name>
+<reg>21ec002</reg>
+<email>jkl@gmail.com</email>
+<mobile>34567</mobile>
+</student>
+
+<student rollno = "5">
+<name>mno</name>
+<reg>21ec000</reg>
+<email>mno@gmail.com</email>
+<mobile>456787654</mobile>
+</student>
+
+</college>
